@@ -1,6 +1,5 @@
 source "https://rubygems.org"
 
 gems
- - 'jekyll'
- - 'jekyll-seo-tag'
- 
+'jekyll'
+'jekyll-seo-tag'
