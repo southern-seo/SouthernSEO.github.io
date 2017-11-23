@@ -10,6 +10,9 @@ meta_author: Osborne Tomas
 # SEO plugins
 plugins: [jekyll-paginate, jekyll-seo-tag]
 
+# Sitemap Plugin
+ plugins: - jekyll-sitemap
+
 # Google webmaster tools
 google_verify:
 
