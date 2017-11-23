@@ -1,6 +1,6 @@
 source "https://rubygems.org"
 
-gems:
+gems
 'jekyll'
 'jekyll-seo-tag'
 'jekyll-sitemap'
