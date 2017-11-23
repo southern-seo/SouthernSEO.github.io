@@ -9,7 +9,7 @@ meta_author: Osborne Tomas
 
 plugins: 
  - jekyll-paginate
- - jekyll-seo-tag]
+ - jekyll-seo-tag
  - jekyll-sitemap
 
 # Google webmaster tools
