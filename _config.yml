@@ -7,7 +7,7 @@ keywords: "Search Engine Optimisation, SEO, Online Marketing, Marketing, Small B
 skills: "Web Development - Search Engine Optimisation - Online Marketing Consultancy"
 meta_author: Osborne Tomas
 
-plugins: 
+gems: 
  - jekyll-paginate
  - jekyll-seo-tag
  - jekyll-sitemap
